@@ -1,6 +1,6 @@
 /**
 * Modèle de simulation BFS (Breadth-First Search) - Version avec Displays Séparés
-* Auteur: GROUPE 2
+* Auteur: YVALTT
 * Description: Simulation d'un algorithme de recherche en largeur sur un graphe de points
 * Amélioration: Séparation des informations dans des displays dédiés
 */
